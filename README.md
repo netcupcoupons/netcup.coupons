@@ -1,2 +1,167 @@
-# netcup.coupons
-⚡ Live verified Netcup voucher codes. Automatically checked and updated every 5 minutes from netcup.coupons. Save on Root Servers, VPS G12, and Web Hosting.
+# Netcup Voucher Codes
+
+> 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
+
+⏰ **Last Updated:** `2026-07-10 09:31:25 UTC`
+
+## Available Vouchers
+
+### General Discounts
+
+- **€5.00 OFF** (MINIMUM CONTRACT PERIOD APPLIES)
+
+  - `36nc17833646274`
+
+  - `36nc17833646273`
+
+  - `36nc17833646272`
+
+  - `36nc17833646271`
+
+  - `36nc17833646270`
+
+
+### Root Servers
+
+- **RS 1000 G12** (FREE FOR 2 MONTHS)
+
+  - `5997nc17832449602`
+
+  - `5997nc17832441704`
+
+  - `5997nc17832441703`
+
+  - `5997nc17832441702`
+
+  - `5997nc17832441701`
+
+- **RS 2000 G12** (FREE FOR 1 MONTH)
+
+  - `5998nc17835236570`
+
+  - `5998nc17786792420`
+
+  - `5998nc17767524452`
+
+  - `5998nc17767524451`
+
+  - `5998nc17759647230`
+
+- **RS 4000 G12** (FREE FOR 1 MONTH)
+
+  - `5999nc17824559523`
+
+  - `5999nc17824559522`
+
+  - `5999nc17824559521`
+
+  - `5999nc17824559520`
+
+  - `5999nc17803966584`
+
+- **RS 8000 G12** (FREE FOR 1 MONTH)
+
+  - `6000nc17827334682`
+
+  - `6000nc17827334681`
+
+  - `6000nc17827334680`
+
+  - `6000nc17759647353`
+
+  - `6000nc17759647352`
+
+
+### VPS (Virtual Private Servers)
+
+- **VPS 1000 G12** (FREE FOR 1 MONTH)
+
+  - `5799nc17833527860`
+
+  - `5799nc17795261640`
+
+  - `5799nc17794657750`
+
+  - `5799nc17794654150`
+
+  - `5799nc17784930660`
+
+- **VPS 2000 G12** (FREE FOR 1 MONTH)
+
+  - `5800nc17817073013`
+
+  - `5800nc17817073012`
+
+  - `5800nc17817073011`
+
+  - `5800nc17817073010`
+
+  - `5800nc17804600030`
+
+- **VPS 4000 G12** (FREE FOR 1 MONTH)
+
+  - `5801nc17817073070`
+
+  - `5801nc17759646010`
+
+  - `5801nc17689963564`
+
+  - `5801nc17689963562`
+
+  - `5801nc17689963560`
+
+- **VPS 8000 G12** (FREE FOR 1 MONTH)
+
+  - `5802nc17817073124`
+
+  - `5802nc17817073123`
+
+  - `5802nc17817073122`
+
+  - `5802nc17817073121`
+
+  - `5802nc17817073120`
+
+
+### Web Hosting
+
+- **Webhosting 2000** (30% OFF LIFETIME)
+
+  - `4602nc17817073184`
+
+  - `4602nc17817073183`
+
+  - `4602nc17817073182`
+
+  - `4602nc17817073181`
+
+  - `4602nc17817073180`
+
+- **Webhosting 4000** (30% OFF LIFETIME)
+
+  - `4603nc17817073244`
+
+  - `4603nc17817073243`
+
+  - `4603nc17817073242`
+
+  - `4603nc17817073241`
+
+  - `4603nc17817073240`
+
+- **Webhosting 8000** (30% OFF LIFETIME)
+
+  - `4604nc17817086670`
+
+  - `4604nc17817073293`
+
+  - `4604nc17817073292`
+
+  - `4604nc17817073291`
+
+  - `4604nc17817073290`
+
+
+---
+
+*(This README is updated automatically every 5 minutes using GitHub Actions. Vouchers are single-use only, so use them quickly!)*
