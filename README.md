@@ -2,7 +2,12 @@
 
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-07-10 09:31:25 UTC`
+⏰ **Last Updated:** `2026-07-10 09:47:35 UTC`
+
+## How to Redeem / 使用链接
+- 🇩🇪 **German Checkout Link (德语使用链接):** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
+- 🇬🇧 **English Checkout Link (英语使用链接):** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)
+- 🌐 **Live Fallback Website:** If all codes listed below are invalid, visit [netcup.coupons](https://netcup.coupons) directly to fetch fresh codes. (如果以下都无效，请直接访问 [netcup.coupons](https://netcup.coupons) 获取即可。)
 
 ## Available Vouchers
 
@@ -33,7 +38,7 @@
 
   - `5997nc17832441702`
 
-  - `5997nc17832441701`
+  - `5997nc17832441700`
 
 - **RS 2000 G12** (FREE FOR 1 MONTH)
 
