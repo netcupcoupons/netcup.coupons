@@ -45,11 +45,11 @@ def build_readme(data):
     md.append("> 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.\n")
     md.append(f"⏰ **Last Updated:** `{last_updated_display}`\n")
     
-    # 插入用户指定的使用链接及兜底提示
-    md.append("## How to Redeem / 使用链接")
-    md.append("- 🇩🇪 **German Checkout Link (德语使用链接):** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)")
-    md.append("- 🇬🇧 **English Checkout Link (英语使用链接):** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)")
-    md.append("- 🌐 **Live Fallback Website:** If all codes listed below are invalid, visit [netcup.coupons](https://netcup.coupons) directly to fetch fresh codes. (如果以下都无效，请直接访问 [netcup.coupons](https://netcup.coupons) 获取即可。)\n")
+    # Add checkout & fallback instructions in pure English
+    md.append("## How to Redeem")
+    md.append("- 🇩🇪 **German Checkout Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)")
+    md.append("- 🇬🇧 **English Checkout Link:** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)")
+    md.append("- 🌐 **Live Fallback Website:** If all codes listed below are invalid, visit [netcup.coupons](https://netcup.coupons) directly to fetch fresh codes.\n")
     
     md.append("## Available Vouchers\n")
     
