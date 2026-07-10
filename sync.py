@@ -4,7 +4,6 @@ import time
 
 API_URL = "https://netcup.coupons/?api=1"
 
-# 优惠券类型归类映射
 CATEGORY_MAPPING = {
     "discount": "General Discounts",
     "rs": "Root Servers",
@@ -33,22 +32,31 @@ def build_readme(data):
     last_updated_display = data.get("last_sync_display", time.strftime('%Y-%m-%d %H:%M:%S UTC', time.gmtime()))
     coupons = data["coupons"]
     
-    # 格式化分组
+    # Group coupons by category
     grouped = {cat: [] for cat in CATEGORY_MAPPING.keys()}
     for item in coupons:
         cat = item.get("category")
         if cat in grouped:
             grouped[cat].append(item)
             
-    # 构建 Markdown 格式的 README
+    # Start building Markdown content
     md = []
     md.append("# Netcup Voucher Codes\n")
     md.append("> 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.\n")
     md.append(f"⏰ **Last Updated:** `{last_updated_display}`\n")
+    
+    # 插入用户指定的使用链接及兜底提示
+    md.append("## How to Redeem / 使用链接")
+    md.append("- 🇩🇪 **German Checkout Link (德语使用链接):** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)")
+    md.append("- 🇬🇧 **English Checkout Link (英语使用链接):** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)")
+    md.append("- 🌐 **Live Fallback Website:** If all codes listed below are invalid, visit [netcup.coupons](https://netcup.coupons) directly to fetch fresh codes. (如果以下都无效，请直接访问 [netcup.coupons](https://netcup.coupons) 获取即可。)\n")
+    
     md.append("## Available Vouchers\n")
     
+    # Render categories in order
     for cat_key, cat_name in CATEGORY_MAPPING.items():
         items = grouped[cat_key]
+        # Skip category if there are no coupons listed in it
         if not any(item.get("codes") for item in items):
             continue
             
@@ -66,11 +74,12 @@ def build_readme(data):
             for code in codes:
                 md.append(f"  - `{code}`\n")
                 
-        md.append("") # 类别间距
+        md.append("") # Add spacing after category
         
     md.append("---\n")
     md.append("*(This README is updated automatically every 5 minutes using GitHub Actions. Vouchers are single-use only, so use them quickly!)*\n")
     
+    # Write to README.md
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md))
     print("README.md updated successfully!")
