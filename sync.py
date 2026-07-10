@@ -39,7 +39,7 @@ def write_english_readme(data, last_updated_display, grouped):
     md.append("- 🇬🇧 **English Checkout Link:** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)")
     md.append("- 🌐 **Live Fallback Website:** If all codes listed below are invalid, visit [netcup.coupons](https://netcup.coupons) directly to fetch fresh codes.\n")
     
-    # Available Vouchers
+    # Available Coupons
     md.append("## Available Vouchers\n")
     for cat_key, cat_name in CATEGORY_MAPPING.items():
         items = grouped[cat_key]
@@ -50,8 +50,8 @@ def write_english_readme(data, last_updated_display, grouped):
             codes = item.get("codes", [])
             if not codes:
                 continue
-            title = item.get("title", "")
-            desc = item.get("desc", "").upper()
+            title = item.get("title") or ""
+            desc = (item.get("desc") or "").upper()
             md.append(f"- **{title}** ({desc})")
             for code in codes:
                 md.append(f"  - `{code}`")
@@ -148,8 +148,8 @@ def write_chinese_readme(data, last_updated_display, grouped):
             codes = item.get("codes", [])
             if not codes:
                 continue
-            title = item.get("title", "")
-            desc = item.get("desc", "").upper()
+            title = item.get("title") or ""
+            desc = (item.get("desc") or "").upper()
             
             title_translated = title.replace("Free", "免费").replace("Month", "个月").replace("OFF", "立减")
             # 优惠券详情翻译：把 MINIMUM CONTRACT PERIOD APPLIES 汉化为 "仅适用于新用户首个订单"
@@ -183,7 +183,7 @@ def write_chinese_readme(data, last_updated_display, grouped):
     md.append("### 选项 A：产品专属优惠券 (RS, VPS, 虚拟主机)")
     md.append("1. **进入购物车：** 直接访问 Netcup 英文购物车页面 [netcup.com/en/checkout/cart](https://netcup.com/en/checkout/cart)。")
     md.append("2. **输入优惠码：** 滚动至购物车底部，找到 \"Redeem voucher (兑换优惠码)\" 输入框，粘贴复制好的优惠码。")
-    md.append("3. **应用折扣：** 点击右侧的 Redeem (兑换) 按钮。相应的折扣金额会立即计算并显示在您的总账单中。")
+    md.append("3. **应用折扣：** 点击右侧 of Redeem (兑换) 按钮。相应的折扣金额会立即计算并显示在您的总账单中。")
     md.append("4. **结账：** 核对折扣后金额无误后，点击 Continue 继续完成支付即可。")
     md.append("\n### 选项 B：5.00 欧元通用新用户优惠码")
     md.append("1. **选择方案：** 在 Netcup 官网选择您需要的主机、VPS 或 RS 方案，加入购物车。")
@@ -202,7 +202,7 @@ def write_chinese_readme(data, last_updated_display, grouped):
     md.append("#### Q4: 多张优惠券可以叠加使用吗？")
     md.append("A4: 不可以。Netcup 的优惠码不能叠加，每个订单只能使用一个优惠码。")
     md.append("#### Q5: 现有老用户可以使用这些优惠码吗？")
-    md.append("A5: 可以的。我们的 RS、VPS 和虚拟主机优惠码老用户和新用户均能使用。唯一的例外是 5 欧元的通用券（仅限新用户）。\n")
+    md.append("A5: 可以的。我们的 RS、VPS 和虚拟主机优惠码老用户 and 新用户均能使用。唯一的例外是 5 欧元的通用券（仅限新用户）。\n")
 
     # Contact & Details
     md.append("## Netcup 官方联系信息")
@@ -249,11 +249,10 @@ def write_german_readme(data, last_updated_display, grouped):
             codes = item.get("codes", [])
             if not codes:
                 continue
-            title = item.get("title", "")
-            desc = item.get("desc", "").upper()
+            title = item.get("title") or ""
+            desc = (item.get("desc") or "").upper()
             
-            title_translated = title.replace("Free", "Kostenlos").replace("Month", "Monat").replace("Months", "Monate").replace("OFF", "Rabatt")
-            # 优惠券详情德语翻译：把 MINIMUM CONTRACT PERIOD APPLIES 替换为 "Nur für Neukunden bei der ersten Bestellung"
+            title_translated = title.replace("Free", "Kostenlos").replace("Monat", "Monat").replace("Monate", "Monate").replace("OFF", "Rabatt")
             desc_translated = desc.replace("FREE FOR", "KOSTENLOS FÜR").replace("MONTHS", "MONATE").replace("MONTH", "MONAT").replace("MINIMUM CONTRACT PERIOD APPLIES", "Nur für Neukunden bei der ersten Bestellung").replace("NEW CUSTOMERS ONLY", "NUR FÜR NEUKUNDEN")
             
             md.append(f"- **{title_translated}** ({desc_translated})")
@@ -344,4 +343,3 @@ if __name__ == "__main__":
     coupon_data = fetch_coupons()
     if coupon_data:
         build_readme(coupon_data)
-,Description:Modify 5 Euro voucher description in Chinese and German.,Overwrite:true,TargetFile:C:\Users\pterv\.gemini\antigravity\brain\855f5616-e7d4-46f2-b02e-42448388c62b\scratch\sync.py}
