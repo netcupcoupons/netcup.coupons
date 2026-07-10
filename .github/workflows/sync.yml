@@ -7,8 +7,13 @@ on:
     - cron: '0 0 * * *' # 每日备份同步：每天午夜 UTC 自动跑一次作为安全备份
   workflow_dispatch: # 允许手动在 GitHub 页面触发
 
+# 并发控制：如果新的同步任务触发时，上一次任务还在跑，立刻自动取消旧任务，防止 Git 提交锁冲突
+concurrency:
+  group: sync-vouchers
+  cancel-in-progress: true
+
 permissions:
-  contents: write # 赋予写入权限，以允许 Actions 将更新后的 README 提交回仓库
+  contents: write # 开启写入权限
 
 jobs:
   sync:
