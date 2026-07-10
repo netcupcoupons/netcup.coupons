@@ -3,7 +3,7 @@ name: Sync Netcup Vouchers
 on:
   schedule:
     # 设定每 5 分钟自动执行一次
-    - cron: '*/5 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch: # 支持在 GitHub 页面上手动点击执行
 
 permissions:
