@@ -1,13 +1,14 @@
 name: Sync Netcup Vouchers
 
 on:
+  repository_dispatch:
+    types: [sync_vouchers] # 监听 WordPress 发来的即时更新通知事件
   schedule:
-    # 设定每 5 分钟自动执行一次
-    - cron: '*/15 * * * *'
-  workflow_dispatch: # 支持在 GitHub 页面上手动点击执行
+    - cron: '0 0 * * *' # 每日备份同步：每天午夜 UTC 自动跑一次作为安全备份
+  workflow_dispatch: # 允许手动在 GitHub 页面触发
 
 permissions:
-  contents: write # 必须赋予写入权限，以允许 Actions 将更新后的 README 提交回仓库
+  contents: write # 赋予写入权限，以允许 Actions 将更新后的 README 提交回仓库
 
 jobs:
   sync:
