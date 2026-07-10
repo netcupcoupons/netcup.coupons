@@ -77,7 +77,7 @@ def build_readme(data):
         md.append("") # Add spacing after category
         
     md.append("---\n")
-    md.append("*(This README is updated automatically every 5 minutes using GitHub Actions. Vouchers are single-use only, so use them quickly!)*\n")
+    md.append("*(This README is updated automatically every 15 minutes using GitHub Actions. Vouchers are single-use only, so use them quickly!)*\n")
     
     # Write to README.md
     with open("README.md", "w", encoding="utf-8") as f:
