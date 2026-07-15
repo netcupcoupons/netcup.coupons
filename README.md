@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-07-15 09:49:18 UTC`
+⏰ **Last Updated:** `2026-07-15 09:56:53 UTC`
 
 ## How to Redeem
 - 🇩🇪 **German Checkout Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -24,11 +24,11 @@
 ### Root Servers
 
 - **RS 1000 G12** (FREE FOR 2 MONTHS)
-  - `5997nc17832441704`
   - `5997nc17832441703`
   - `5997nc17832441702`
   - `5997nc17831719133`
   - `5997nc17831719131`
+  - `5997nc17831719130`
 - **RS 2000 G12** (FREE FOR 1 MONTH)
   - `5998nc17840216270`
   - `5998nc17839497740`
@@ -51,7 +51,7 @@
 ### VPS (Virtual Private Servers)
 
 - **VPS 1000 G12** (FREE FOR 1 MONTH)
-  - `5799nc17840148080`
+  - `5799nc17841093220`
   - `5799nc17833527860`
   - `5799nc17795261640`
   - `5799nc17794657750`
