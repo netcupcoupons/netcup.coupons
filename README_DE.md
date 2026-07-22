@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-07-22 11:25:04 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-07-22 11:32:09 UTC`
 
 ## Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -30,9 +30,9 @@
   - `5997nc17828289551`
   - `5997nc17828289550`
 - **RS 2000 G12** (KOSTENLOS FÜR 1 MONAT)
+  - `5998nc17847198530`
   - `5998nc17847122770`
   - `5998nc17846274060`
-  - `5998nc17841284560`
   - `5998nc17841280140`
   - `5998nc17841263090`
 - **RS 4000 G12** (KOSTENLOS FÜR 1 MONAT)
