@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-08-28 04:47:31 UTC`
+⏰ **最后更新:** `2026-08-28 04:53:44 UTC`
 
 ## 使用及兑换链接
 - 🇩🇪 **德语购物车直达链接:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -78,11 +78,11 @@
 ### Web 虚拟主机 (Hosting)
 
 - **Webhosting 2000** (30% OFF LIFETIME)
+  - `4602nc17878927770`
   - `4602nc17878463310`
   - `4602nc17876909000`
   - `4602nc17875566530`
   - `4602nc17874205180`
-  - `4602nc17872111270`
 - **Webhosting 4000** (30% OFF LIFETIME)
   - `4603nc17875430800`
   - `4603nc17875229720`
