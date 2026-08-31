@@ -343,3 +343,4 @@ if __name__ == "__main__":
     coupon_data = fetch_coupons()
     if coupon_data:
         build_readme(coupon_data)
+
