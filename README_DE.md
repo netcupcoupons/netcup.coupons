@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-09-11 12:41:52 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-09-11 12:46:06 UTC`
 
 ## Gutschein einlösen
 - 🇩🇪 **Deutscher Warenkorb Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -69,9 +69,9 @@
   - `5801nc17875394180`
   - `5801nc17863803460`
 - **VPS 8000 G12** (KOSTENLOS FÜR 1 MONAT)
+  - `5802nc17891307150`
   - `5802nc17890557830`
   - `5802nc17890516420`
-  - `5802nc17890014260`
   - `5802nc17883451590`
   - `5802nc17878851120`
 
