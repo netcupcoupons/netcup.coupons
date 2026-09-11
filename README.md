@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-09-11 07:03:04 UTC`
+⏰ **Last Updated:** `2026-09-11 07:07:20 UTC`
 
 ## How to Redeem
 - 🇩🇪 **German Checkout Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -78,7 +78,7 @@
 ### Web Hosting
 
 - **Webhosting 2000** (30% OFF LIFETIME)
-  - `4602nc17887708330`
+  - `4602nc17891103870`
   - `4602nc17886019731`
   - `4602nc17886019730`
   - `4602nc17882762540`
