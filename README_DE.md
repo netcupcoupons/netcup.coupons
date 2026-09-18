@@ -15,11 +15,11 @@
 ### Allgemeine Rabatte
 
 - **€5.00 Rabatt** (Nur für Neukunden bei der ersten Bestellung)
-  - `36nc17896601604`
-  - `36nc17896601603`
-  - `36nc17896601602`
-  - `36nc17896601601`
-  - `36nc17896601600`
+  - `36nc17897241644`
+  - `36nc17897241643`
+  - `36nc17897241642`
+  - `36nc17897241641`
+  - `36nc17897241640`
 
 ### Root Server (RS)
 
