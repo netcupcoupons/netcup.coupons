@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-09-22 07:10:55 UTC`
+⏰ **Last Updated:** `2026-09-22 07:14:39 UTC`
 
 ## How to Redeem
 - 🇩🇪 **German Checkout Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -30,7 +30,7 @@
   - `5997nc17897981440`
   - `5997nc17897869010`
 - **RS 2000 G12** (FREE FOR 1 MONTH)
-  - `5998nc17900101470`
+  - `5998nc17900612580`
   - `5998nc17899977681`
   - `5998nc17899977680`
   - `5998nc17899889320`
