@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-09-29 13:07:01 UTC`
+⏰ **Last Updated:** `2026-09-29 13:11:57 UTC`
 
 ## How to Redeem
 - 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
@@ -43,11 +43,11 @@
   - [`36nc17833646271`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (FREE FOR 1 MONTH)
+  - [`6876nc17906877790`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17906877790)
   - [`6876nc17906869210`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17906869210)
   - [`6876nc17905999950`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17905999950)
   - [`6876nc17905947410`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17905947410)
   - [`6876nc17904429910`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17904429910)
-  - [`6876nc17903386912`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17903386912)
 
 ### VPS (Virtual Private Servers)
 
@@ -70,8 +70,8 @@
   - [`6879nc17903529281`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17903529281)
   - [`6879nc17903529280`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17903529280)
 - **VPS 8000 G12.5** (FREE FOR 1 MONTH)
+  - [`6880nc17906877880`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17906877880)
   - [`6880nc17905884370`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17905884370)
-  - [`6880nc17903387193`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17903387193)
   - [`6880nc17903387192`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17903387192)
   - [`6880nc17903387191`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17903387191)
   - [`6880nc17903387190`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17903387190)
