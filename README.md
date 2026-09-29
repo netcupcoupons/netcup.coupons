@@ -3,12 +3,12 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-09-29 12:52:57 UTC`
+⏰ **Last Updated:** `2026-09-29 13:02:26 UTC`
 
 ## How to Redeem
-- 🚀 **Direct One-Click Redemption:** Click any voucher code link below to open Netcup with the coupon automatically pre-applied to your cart!
-- 🇩🇪 **German Checkout Cart:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
-- 🇬🇧 **English / International Cart:** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)
+- 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
+- 🇩🇪 **German Cart URL:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
+- 🇬🇧 **English / International Cart URL:** [https://www.netcup.com/en/checkout/cart](https://www.netcup.com/en/checkout/cart)
 - 🌐 **Live Fallback Website:** If all codes listed below are invalid, visit [netcup.coupons](https://netcup.coupons) directly to fetch fresh codes.
 
 ## Available Vouchers
@@ -43,11 +43,11 @@
   - [`36nc17833646271`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (FREE FOR 1 MONTH)
+  - [`6876nc17906869210`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17906869210)
   - [`6876nc17905999950`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17905999950)
   - [`6876nc17905947410`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17905947410)
   - [`6876nc17904429910`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17904429910)
   - [`6876nc17903386912`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17903386912)
-  - [`6876nc17903386911`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17903386911)
 
 ### VPS (Virtual Private Servers)
 
@@ -130,7 +130,7 @@
 
 ## Frequently Asked Questions
 #### Q1: How do I redeem a Netcup voucher?
-A1: Click directly on your desired coupon code link above to open Netcup checkout with the voucher pre-applied, or copy the code and enter it manually during checkout.
+A1: Click directly on your desired coupon code above to open the Netcup checkout with the voucher pre-applied, or copy the code and enter it manually during checkout.
 #### Q2: Are the vouchers free?
 A2: Yes. Generating, clicking, and using the vouchers is completely free for you.
 #### Q3: Are the codes checked before listing?

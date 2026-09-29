@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-09-29 12:52:57 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-09-29 13:02:26 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -36,18 +36,18 @@
   - [`6875nc17903386822`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386822)
   - [`6875nc17903386821`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386821)
   - [`6875nc17903386820`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386820)
-- **RS 4000 G12.5** (5,00 € RABATT)
+- **RS 4000 G12.5** (KOSTENLOS FÜR 1 MONAT)
   - [`36nc17833646274`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646274)
   - [`36nc17833646273`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646273)
   - [`36nc17833646272`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646272)
   - [`36nc17833646271`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6876nc17906869210`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17906869210)
   - [`6876nc17905999950`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17905999950)
   - [`6876nc17905947410`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17905947410)
   - [`6876nc17904429910`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17904429910)
   - [`6876nc17903386912`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903386912)
-  - [`6876nc17903386911`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17903386911)
 
 ### Virtual Server (VPS)
 
