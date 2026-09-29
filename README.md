@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-09-29 12:29:49 UTC`
+⏰ **Last Updated:** `2026-09-29 12:34:29 UTC`
 
 ## How to Redeem
 - 🇩🇪 **German Checkout Link:** [https://www.netcup.com/de/checkout/warenkorb](https://www.netcup.com/de/checkout/warenkorb)
@@ -23,25 +23,25 @@
 
 ### Root Servers
 
-- **RS 1000 G12** (FREE FOR 2 MONTHS)
+- **RS 1000 G12.5** (FREE FOR 2 MONTHS)
   - `6874nc17906126230`
   - `6874nc17905076700`
   - `6874nc17903395990`
   - `6874nc17903384592`
   - `6874nc17903384591`
-- **RS 2000 G12** (FREE FOR 1 MONTH)
+- **RS 2000 G12.5** (FREE FOR 1 MONTH)
   - `6875nc17905856530`
   - `6875nc17903386823`
   - `6875nc17903386822`
   - `6875nc17903386821`
   - `6875nc17903386820`
-- **RS 4000 G12** (FREE FOR 1 MONTH)
+- **RS 4000 G12.5** (FREE FOR 1 MONTH)
   - `36nc17833646274`
   - `36nc17833646273`
   - `36nc17833646272`
   - `36nc17833646271`
   - `36nc17833646270`
-- **RS 8000 G12** (FREE FOR 1 MONTH)
+- **RS 8000 G12.5** (FREE FOR 1 MONTH)
   - `6876nc17905999950`
   - `6876nc17905947410`
   - `6876nc17904429910`
@@ -50,25 +50,25 @@
 
 ### VPS (Virtual Private Servers)
 
-- **VPS 1000 G12** (FREE FOR 1 MONTH)
+- **VPS 1000 G12.5** (FREE FOR 1 MONTH)
   - `6877nc17906772311`
   - `6877nc17906772310`
   - `6877nc17904181890`
   - `6877nc17903387012`
   - `6877nc17903387011`
-- **VPS 2000 G12** (FREE FOR 1 MONTH)
+- **VPS 2000 G12.5** (FREE FOR 1 MONTH)
   - `6878nc17906279150`
   - `6878nc17906081080`
   - `6878nc17903387102`
   - `6878nc17903387100`
   - `6878nc17903378730`
-- **VPS 4000 G12** (FREE FOR 1 MONTH)
+- **VPS 4000 G12.5** (FREE FOR 1 MONTH)
   - `6879nc17903566520`
   - `6879nc17903529283`
   - `6879nc17903529282`
   - `6879nc17903529281`
   - `6879nc17903529280`
-- **VPS 8000 G12** (FREE FOR 1 MONTH)
+- **VPS 8000 G12.5** (FREE FOR 1 MONTH)
   - `6880nc17905884370`
   - `6880nc17903387193`
   - `6880nc17903387192`
