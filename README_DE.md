@@ -32,7 +32,6 @@
   - [`6874nc17903395990`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17903395990)
 - **RS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
   - [`6875nc17905856530`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17905856530)
-  - [`6875nc17903386823`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386823)
   - [`6875nc17903386822`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386822)
   - [`6875nc17903386821`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386821)
   - [`6875nc17903386820`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17903386820)

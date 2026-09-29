@@ -32,7 +32,6 @@
   - [`6874nc17903395990`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17903395990)
 - **RS 2000 G12.5** (免费体验 1 个月)
   - [`6875nc17905856530`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17905856530)
-  - [`6875nc17903386823`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17903386823)
   - [`6875nc17903386822`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17903386822)
   - [`6875nc17903386821`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17903386821)
   - [`6875nc17903386820`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17903386820)
