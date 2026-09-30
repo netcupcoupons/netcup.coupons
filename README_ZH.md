@@ -43,10 +43,10 @@
   - [`36nc17833646271`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (免费体验 1 个月)
+  - [`6876nc17907942561`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907942561)
+  - [`6876nc17907942560`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907942560)
   - [`6876nc17907624604`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907624604)
-  - [`6876nc17907624603`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907624603)
   - [`6876nc17907624602`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907624602)
-  - [`6876nc17907624601`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907624601)
   - [`6876nc17907624600`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17907624600)
 
 ### VPS 虚拟服务器 (VPS)
