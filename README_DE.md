@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-10-02 21:26:18 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-02 21:31:09 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -25,8 +25,8 @@
 ### Root Server (RS)
 
 - **RS 1000 G12.5** (KOSTENLOS FÜR 2 MONATE)
+  - [`6874nc17909769310`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909769310)
   - [`6874nc17909656501`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909656501)
-  - [`6874nc17909656500`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909656500)
   - [`6874nc17909524680`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909524680)
   - [`6874nc17907624432`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17907624432)
   - [`6874nc17907624430`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17907624430)
@@ -64,9 +64,9 @@
   - [`6878nc17907624781`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17907624781)
   - [`6878nc17906939310`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17906939310)
 - **VPS 4000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6879nc17909769400`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17909769400)
   - [`6879nc17909524860`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17909524860)
   - [`6879nc17909518790`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17909518790)
-  - [`6879nc17907624874`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17907624874)
   - [`6879nc17907624871`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17907624871)
   - [`6879nc17907624870`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17907624870)
 - **VPS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
