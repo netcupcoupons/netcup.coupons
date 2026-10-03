@@ -25,7 +25,7 @@
 ### Root Server (RS)
 
 - **RS 1000 G12.5** (KOSTENLOS FÜR 2 MONATE)
-  - [`6874nc17910085200`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17910085200)
+  - [`6874nc17910222180`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17910222180)
   - [`6874nc17910045780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17910045780)
   - [`6874nc17909777790`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909777790)
   - [`6874nc17909656501`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17909656501)
@@ -52,7 +52,7 @@
 ### Virtual Server (VPS)
 
 - **VPS 1000 G12.5** (KOSTENLOS FÜR 1 MONAT)
-  - [`6877nc17910062860`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17910062860)
+  - [`6877nc17910222260`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17910222260)
   - [`6877nc17910020570`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17910020570)
   - [`6877nc17909828820`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17909828820)
   - [`6877nc17909530850`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17909530850)
