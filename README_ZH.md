@@ -91,11 +91,11 @@
   - [`5208nc17906369500`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17906369500)
   - [`5208nc17903525930`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17903525930)
 - **Webhosting 8000** (30% 立减 LIFETIME)
+  - [`5209nc17912497910`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17912497910)
   - [`5209nc17903530393`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903530393)
   - [`5209nc17903530392`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903530392)
   - [`5209nc17903530391`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903530391)
   - [`5209nc17903530390`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903530390)
-  - [`5209nc17903526000`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17903526000)
 
 ## 技术参数对照表
 ### Root 服务器 G12.5
