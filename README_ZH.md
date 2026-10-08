@@ -25,7 +25,7 @@
 ### Root 专用服务器 (RS)
 
 - **RS 1000 G12.5** (免费体验 2 个月)
-  - [`6874nc17914625260`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17914625260)
+  - [`6874nc17914677520`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17914677520)
   - [`6874nc17913609890`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17913609890)
   - [`6874nc17913033421`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17913033421)
   - [`6874nc17913033420`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17913033420)
