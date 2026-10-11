@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-10-11 05:02:08 UTC`
+⏰ **最后更新:** `2026-10-11 05:07:05 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -58,11 +58,11 @@
   - [`6877nc17911942220`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17911942220)
   - [`6877nc17911092710`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17911092710)
 - **VPS 2000 G12.5** (免费体验 1 个月)
+  - [`6878nc17916954960`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17916954960)
   - [`6878nc17914792580`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17914792580)
   - [`6878nc17912043670`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17912043670)
   - [`6878nc17910051680`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17910051680)
   - [`6878nc17909752440`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17909752440)
-  - [`6878nc17907624781`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17907624781)
 - **VPS 4000 G12.5** (免费体验 1 个月)
   - [`6879nc17915798770`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17915798770)
   - [`6879nc17911475220`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17911475220)
