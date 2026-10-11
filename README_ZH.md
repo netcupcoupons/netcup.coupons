@@ -43,7 +43,7 @@
   - [`36nc17833646271`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (免费体验 1 个月)
-  - [`6876nc17917267080`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17917267080)
+  - [`6876nc17917349040`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17917349040)
   - [`6876nc17915084690`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17915084690)
   - [`6876nc17913809470`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17913809470)
   - [`6876nc17912489620`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17912489620)
