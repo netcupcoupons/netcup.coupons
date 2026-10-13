@@ -70,11 +70,11 @@
   - [`6879nc17910093660`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17910093660)
   - [`6879nc17909524860`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17909524860)
 - **VPS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6880nc17919031360`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17919031360)
   - [`6880nc17915962430`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17915962430)
   - [`6880nc17912205930`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17912205930)
   - [`6880nc17911062520`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17911062520)
   - [`6880nc17910323850`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17910323850)
-  - [`6880nc17909527840`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17909527840)
 
 ### Webhosting
 
