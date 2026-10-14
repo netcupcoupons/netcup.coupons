@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-10-14 06:20:00 UTC`
+⏰ **最后更新:** `2026-10-14 06:24:46 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -31,11 +31,11 @@
   - [`6874nc17916857020`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17916857020)
   - [`6874nc17916631860`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17916631860)
 - **RS 2000 G12.5** (免费体验 1 个月)
+  - [`6875nc17919590640`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17919590640)
   - [`6875nc17916951950`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17916951950)
   - [`6875nc17916306570`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17916306570)
   - [`6875nc17915962341`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17915962341)
   - [`6875nc17915962340`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17915962340)
-  - [`6875nc17915768660`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17915768660)
 - **RS 4000 G12.5** (立减 5 欧元)
   - [`36nc17833646274`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646274)
   - [`36nc17833646273`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646273)
