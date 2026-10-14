@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-10-14 18:44:02 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-14 18:48:54 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -79,17 +79,17 @@
 ### Webhosting
 
 - **Webhosting 2000** (30% RABATT LIFETIME)
+  - [`5207nc17920037050`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17920037050)
   - [`5207nc17919875640`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17919875640)
   - [`5207nc17919097380`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17919097380)
   - [`5207nc17918822740`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17918822740)
   - [`5207nc17916784140`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17916784140)
-  - [`5207nc17916777940`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17916777940)
 - **Webhosting 4000** (30% RABATT LIFETIME)
+  - [`5208nc17920037140`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17920037140)
   - [`5208nc17918065780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17918065780)
   - [`5208nc17907131900`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17907131900)
   - [`5208nc17907129070`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17907129070)
   - [`5208nc17906369500`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17906369500)
-  - [`5208nc17903525930`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17903525930)
 - **Webhosting 8000** (30% RABATT LIFETIME)
   - [`5209nc17918276770`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17918276770)
   - [`5209nc17903530393`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903530393)
