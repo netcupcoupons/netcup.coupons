@@ -31,9 +31,9 @@
   - [`6874nc17916857020`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17916857020)
   - [`6874nc17916631860`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17916631860)
 - **RS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6875nc17920476150`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17920476150)
   - [`6875nc17919590640`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17919590640)
   - [`6875nc17916951950`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17916951950)
-  - [`6875nc17916306570`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17916306570)
   - [`6875nc17915962341`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17915962341)
   - [`6875nc17915962340`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17915962340)
 - **RS 4000 G12.5** (5,00 € RABATT)
@@ -79,11 +79,11 @@
 ### Webhosting
 
 - **Webhosting 2000** (30% RABATT LIFETIME)
+  - [`5207nc17920476240`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17920476240)
   - [`5207nc17920078090`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17920078090)
   - [`5207nc17920037050`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17920037050)
   - [`5207nc17919875640`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17919875640)
   - [`5207nc17919097380`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17919097380)
-  - [`5207nc17918822740`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17918822740)
 - **Webhosting 4000** (30% RABATT LIFETIME)
   - [`5208nc17920037140`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17920037140)
   - [`5208nc17918065780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17918065780)
