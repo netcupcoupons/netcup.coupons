@@ -52,7 +52,7 @@
 ### VPS (Virtual Private Servers)
 
 - **VPS 1000 G12.5** (FREE FOR 1 MONTH)
-  - [`6877nc17920391400`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17920391400)
+  - [`6877nc17920577540`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17920577540)
   - [`6877nc17919058940`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17919058940)
   - [`6877nc17918391481`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17918391481)
   - [`6877nc17918391480`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17918391480)
@@ -70,11 +70,11 @@
   - [`6879nc17910093660`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17910093660)
   - [`6879nc17909524860`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17909524860)
 - **VPS 8000 G12.5** (FREE FOR 1 MONTH)
+  - [`6880nc17920577620`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17920577620)
   - [`6880nc17919872790`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17919872790)
   - [`6880nc17915962430`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17915962430)
   - [`6880nc17912205930`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17912205930)
   - [`6880nc17911062520`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17911062520)
-  - [`6880nc17910323850`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17910323850)
 
 ### Web Hosting
 
@@ -83,7 +83,6 @@
   - [`5207nc17920476240`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17920476240)
   - [`5207nc17920078090`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17920078090)
   - [`5207nc17920037050`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17920037050)
-  - [`5207nc17919875640`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17919875640)
 - **Webhosting 4000** (30% OFF LIFETIME)
   - [`5208nc17920037140`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17920037140)
   - [`5208nc17918065780`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17918065780)
