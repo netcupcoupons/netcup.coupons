@@ -64,7 +64,7 @@
   - [`6878nc17910051680`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17910051680)
   - [`6878nc17909752440`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17909752440)
 - **VPS 4000 G12.5** (KOSTENLOS FÜR 1 MONAT)
-  - [`6879nc17915798770`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17915798770)
+  - [`6879nc17921252700`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17921252700)
   - [`6879nc17911475220`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17911475220)
   - [`6879nc17911059690`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17911059690)
   - [`6879nc17910093660`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17910093660)
