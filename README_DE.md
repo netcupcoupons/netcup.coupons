@@ -91,11 +91,11 @@
   - [`5208nc17918065780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17918065780)
   - [`5208nc17907131900`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17907131900)
 - **Webhosting 8000** (30% RABATT LIFETIME)
+  - [`5209nc17923449190`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17923449190)
   - [`5209nc17922424080`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17922424080)
   - [`5209nc17918276770`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17918276770)
   - [`5209nc17903530393`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903530393)
   - [`5209nc17903530391`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903530391)
-  - [`5209nc17903530390`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17903530390)
 
 ## Technische Spezifikationen
 ### Root Server G12.5
