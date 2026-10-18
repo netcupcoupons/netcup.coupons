@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-10-18 23:44:14 UTC`
+⏰ **最后更新:** `2026-10-18 23:48:59 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -25,8 +25,8 @@
 ### Root 专用服务器 (RS)
 
 - **RS 1000 G12.5** (免费体验 2 个月)
-  - [`6874nc17923311870`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17923311870)
-  - [`6874nc17923287000`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17923287000)
+  - [`6874nc17923676011`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17923676011)
+  - [`6874nc17923676010`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17923676010)
   - [`6874nc17922148540`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17922148540)
   - [`6874nc17921569640`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17921569640)
   - [`6874nc17918071360`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17918071360)
