@@ -52,8 +52,8 @@
 ### VPS 虚拟服务器 (VPS)
 
 - **VPS 1000 G12.5** (免费体验 1 个月)
-  - [`6877nc17925031291`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925031291)
-  - [`6877nc17925031290`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925031290)
+  - [`6877nc17925045091`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925045091)
+  - [`6877nc17925045090`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925045090)
   - [`6877nc17925022383`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925022383)
   - [`6877nc17925022382`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925022382)
   - [`6877nc17925022381`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17925022381)
