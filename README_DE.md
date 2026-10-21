@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-10-21 13:48:55 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-21 15:43:17 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -31,7 +31,7 @@
   - [`6874nc17925028261`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17925028261)
   - [`6874nc17925028260`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17925028260)
 - **RS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
-  - [`6875nc17925031124`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17925031124)
+  - [`6875nc17925973650`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17925973650)
   - [`6875nc17925031123`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17925031123)
   - [`6875nc17925031122`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17925031122)
   - [`6875nc17925031121`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17925031121)
@@ -70,7 +70,7 @@
   - [`6879nc17925010713`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17925010713)
   - [`6879nc17921252700`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17921252700)
 - **VPS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
-  - [`6880nc17925099951`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17925099951)
+  - [`6880nc17925973740`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17925973740)
   - [`6880nc17925099950`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17925099950)
   - [`6880nc17925010803`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17925010803)
   - [`6880nc17925010802`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17925010802)
