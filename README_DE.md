@@ -43,11 +43,11 @@
   - [`36nc17833646271`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6876nc17928583860`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17928583860)
   - [`6876nc17925031214`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17925031214)
   - [`6876nc17925031213`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17925031213)
   - [`6876nc17925031212`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17925031212)
   - [`6876nc17925031211`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17925031211)
-  - [`6876nc17925031210`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17925031210)
 
 ### Virtual Server (VPS)
 
