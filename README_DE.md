@@ -52,10 +52,10 @@
 ### Virtual Server (VPS)
 
 - **VPS 1000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6877nc17928592200`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17928592200)
   - [`6877nc17925811760`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17925811760)
   - [`6877nc17925643720`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17925643720)
   - [`6877nc17925045091`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17925045091)
-  - [`6877nc17925045090`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17925045090)
   - [`6877nc17925022383`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17925022383)
 - **VPS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
   - [`6878nc17928301220`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17928301220)
