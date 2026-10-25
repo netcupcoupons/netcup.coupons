@@ -43,11 +43,11 @@
   - [`36nc17833646271`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (免费体验 1 个月)
-  - [`6876nc17928583860`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17928583860)
+  - [`6876nc17929045851`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17929045851)
+  - [`6876nc17929045850`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17929045850)
   - [`6876nc17925031214`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17925031214)
   - [`6876nc17925031213`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17925031213)
   - [`6876nc17925031212`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17925031212)
-  - [`6876nc17925031211`](https://www.netcup.com/en/checkout/cart?gutschein=6876nc17925031211)
 
 ### VPS 虚拟服务器 (VPS)
 
@@ -70,10 +70,10 @@
   - [`6879nc17925010713`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17925010713)
   - [`6879nc17921252700`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17921252700)
 - **VPS 8000 G12.5** (免费体验 1 个月)
+  - [`6880nc17929045940`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17929045940)
   - [`6880nc17926397281`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17926397281)
   - [`6880nc17926397280`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17926397280)
   - [`6880nc17925973740`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17925973740)
-  - [`6880nc17925099950`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17925099950)
   - [`6880nc17925010803`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17925010803)
 
 ### Web 虚拟主机 (Hosting)
