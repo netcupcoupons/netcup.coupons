@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-10-25 04:58:41 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-10-25 05:08:22 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -70,7 +70,6 @@
   - [`6879nc17925010713`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17925010713)
   - [`6879nc17921252700`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17921252700)
 - **VPS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
-  - [`6880nc17929045940`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17929045940)
   - [`6880nc17926397281`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17926397281)
   - [`6880nc17926397280`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17926397280)
   - [`6880nc17925973740`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17925973740)
@@ -91,10 +90,10 @@
   - [`5208nc17925010980`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17925010980)
   - [`5208nc17920580560`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17920580560)
 - **Webhosting 8000** (30% RABATT LIFETIME)
-  - [`5209nc17927366900`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17927366900)
+  - [`5209nc17929048791`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17929048791)
+  - [`5209nc17929048790`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17929048790)
   - [`5209nc17925011063`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17925011063)
   - [`5209nc17925011062`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17925011062)
-  - [`5209nc17925011060`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17925011060)
   - [`5209nc17918276770`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17918276770)
 
 ## Technische Spezifikationen
