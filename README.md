@@ -85,17 +85,17 @@
   - [`5207nc17925010892`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17925010892)
   - [`5207nc17925010891`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17925010891)
 - **Webhosting 4000** (30% OFF LIFETIME)
+  - [`5208nc17930586360`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17930586360)
   - [`5208nc17930257870`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17930257870)
   - [`5208nc17930255000`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17930255000)
   - [`5208nc17925010982`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17925010982)
   - [`5208nc17925010981`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17925010981)
-  - [`5208nc17925010980`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17925010980)
 - **Webhosting 8000** (30% OFF LIFETIME)
+  - [`5209nc17930586450`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17930586450)
   - [`5209nc17929048791`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17929048791)
   - [`5209nc17929048790`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17929048790)
   - [`5209nc17925011063`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17925011063)
   - [`5209nc17925011062`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17925011062)
-  - [`5209nc17918276770`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17918276770)
 
 ## Technical Specifications
 ### Root Servers G12.5
