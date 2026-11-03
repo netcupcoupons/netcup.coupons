@@ -64,7 +64,7 @@
   - [`6878nc17929057350`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17929057350)
   - [`6878nc17925025310`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17925025310)
 - **VPS 4000 G12.5** (免费体验 1 个月)
-  - [`6879nc17936550250`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17936550250)
+  - [`6879nc17937422380`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17937422380)
   - [`6879nc17936277320`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17936277320)
   - [`6879nc17932829120`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17932829120)
   - [`6879nc17927117910`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17927117910)
