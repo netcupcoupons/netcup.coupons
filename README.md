@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-11-05 18:52:54 UTC`
+⏰ **Last Updated:** `2026-11-05 18:57:44 UTC`
 
 ## How to Redeem
 - 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
@@ -52,11 +52,11 @@
 ### VPS (Virtual Private Servers)
 
 - **VPS 1000 G12.5** (FREE FOR 1 MONTH)
+  - [`6877nc17939050380`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17939050380)
   - [`6877nc17938820580`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17938820580)
   - [`6877nc17935965670`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17935965670)
   - [`6877nc17934821210`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17934821210)
   - [`6877nc17933234950`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17933234950)
-  - [`6877nc17932959430`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17932959430)
 - **VPS 2000 G12.5** (FREE FOR 1 MONTH)
   - [`6878nc17938280610`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17938280610)
   - [`6878nc17938277720`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17938277720)
