@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-11-12 17:46:29 UTC`
+⏰ **最后更新:** `2026-11-12 17:51:21 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -58,11 +58,11 @@
   - [`6877nc17943392400`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17943392400)
   - [`6877nc17939634411`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17939634411)
 - **VPS 2000 G12.5** (免费体验 1 个月)
+  - [`6878nc17945058510`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17945058510)
   - [`6878nc17944051730`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17944051730)
   - [`6878nc17943392490`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17943392490)
   - [`6878nc17942522710`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17942522710)
   - [`6878nc17938277720`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17938277720)
-  - [`6878nc17934478490`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17934478490)
 - **VPS 4000 G12.5** (免费体验 1 个月)
   - [`6879nc17945055670`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17945055670)
   - [`6879nc17937422380`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17937422380)
@@ -70,11 +70,11 @@
   - [`6879nc17932829120`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17932829120)
   - [`6879nc17927117910`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17927117910)
 - **VPS 8000 G12.5** (免费体验 1 个月)
+  - [`6880nc17945058600`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17945058600)
   - [`6880nc17944020490`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17944020490)
   - [`6880nc17934550080`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17934550080)
   - [`6880nc17929051650`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17929051650)
   - [`6880nc17926397281`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17926397281)
-  - [`6880nc17926397280`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17926397280)
 
 ### Web 虚拟主机 (Hosting)
 
