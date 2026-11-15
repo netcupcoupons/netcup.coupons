@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-11-15 06:23:09 UTC`
+⏰ **Last Updated:** `2026-11-15 06:27:54 UTC`
 
 ## How to Redeem
 - 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
@@ -31,7 +31,7 @@
   - [`6874nc17944683600`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17944683600)
   - [`6874nc17944533390`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17944533390)
 - **RS 2000 G12.5** (FREE FOR 1 MONTH)
-  - [`6875nc17946736040`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17946736040)
+  - [`6875nc17947240500`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17947240500)
   - [`6875nc17946591461`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17946591461)
   - [`6875nc17946591460`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17946591460)
   - [`6875nc17938806380`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17938806380)
