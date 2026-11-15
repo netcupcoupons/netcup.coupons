@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-11-15 00:05:04 UTC`
+⏰ **Last Updated:** `2026-11-15 00:09:57 UTC`
 
 ## How to Redeem
 - 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
@@ -58,7 +58,7 @@
   - [`6877nc17945621010`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17945621010)
   - [`6877nc17944779340`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17944779340)
 - **VPS 2000 G12.5** (FREE FOR 1 MONTH)
-  - [`6878nc17945673090`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17945673090)
+  - [`6878nc17947013670`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17947013670)
   - [`6878nc17945670230`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17945670230)
   - [`6878nc17943392490`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17943392490)
   - [`6878nc17942522710`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17942522710)
@@ -79,7 +79,7 @@
 ### Web Hosting
 
 - **Webhosting 2000** (30% OFF LIFETIME)
-  - [`5207nc17946994470`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17946994470)
+  - [`5207nc17947013750`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17947013750)
   - [`5207nc17945777170`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17945777170)
   - [`5207nc17943409320`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17943409320)
   - [`5207nc17941622750`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17941622750)
