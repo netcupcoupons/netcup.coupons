@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-11-17 09:07:33 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-17 09:12:22 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -25,10 +25,10 @@
 ### Root Server (RS)
 
 - **RS 1000 G12.5** (KOSTENLOS FÜR 2 MONATE)
+  - [`6874nc17949067140`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17949067140)
   - [`6874nc17949064320`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17949064320)
   - [`6874nc17948426970`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17948426970)
   - [`6874nc17948194781`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17948194781)
-  - [`6874nc17948194780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17948194780)
   - [`6874nc17946725070`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17946725070)
 - **RS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
   - [`6875nc17948813670`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17948813670)
@@ -52,10 +52,10 @@
 ### Virtual Server (VPS)
 
 - **VPS 1000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6877nc17949067230`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17949067230)
   - [`6877nc17948383240`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17948383240)
   - [`6877nc17947842941`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17947842941)
   - [`6877nc17947842940`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17947842940)
-  - [`6877nc17946817860`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17946817860)
   - [`6877nc17944779340`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17944779340)
 - **VPS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
   - [`6878nc17947831950`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17947831950)
