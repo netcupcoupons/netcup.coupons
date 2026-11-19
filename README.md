@@ -25,14 +25,14 @@
 ### Root Servers
 
 - **RS 1000 G12.5** (FREE FOR 2 MONTHS)
+  - [`6874nc17950957100`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17950957100)
   - [`6874nc17950849120`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17950849120)
   - [`6874nc17950366750`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17950366750)
   - [`6874nc17950241050`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17950241050)
   - [`6874nc17949983120`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17949983120)
-  - [`6874nc17949072780`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17949072780)
 - **RS 2000 G12.5** (FREE FOR 1 MONTH)
+  - [`6875nc17950957180`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17950957180)
   - [`6875nc17950945960`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17950945960)
-  - [`6875nc17950876690`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17950876690)
   - [`6875nc17949296730`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17949296730)
   - [`6875nc17948325660`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17948325660)
   - [`6875nc17946591460`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17946591460)
