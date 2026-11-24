@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-11-24 15:35:20 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-24 15:40:16 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -31,8 +31,8 @@
   - [`6874nc17953235040`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17953235040)
   - [`6874nc17952974440`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17952974440)
 - **RS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6875nc17955347830`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17955347830)
   - [`6875nc17954673150`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17954673150)
-  - [`6875nc17954508350`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17954508350)
   - [`6875nc17954477950`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17954477950)
   - [`6875nc17954068700`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17954068700)
   - [`6875nc17952867750`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17952867750)
@@ -79,10 +79,10 @@
 ### Webhosting
 
 - **Webhosting 2000** (30% RABATT LIFETIME)
+  - [`5207nc17955347920`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17955347920)
   - [`5207nc17955344980`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17955344980)
   - [`5207nc17955342160`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17955342160)
   - [`5207nc17954703310`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17954703310)
-  - [`5207nc17953196730`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17953196730)
   - [`5207nc17952434850`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17952434850)
 - **Webhosting 4000** (30% RABATT LIFETIME)
   - [`5208nc17954321180`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17954321180)
