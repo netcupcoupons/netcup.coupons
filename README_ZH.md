@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-11-25 07:41:54 UTC`
+⏰ **最后更新:** `2026-11-25 07:46:49 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -31,7 +31,7 @@
   - [`6874nc17954744450`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17954744450)
   - [`6874nc17954257840`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17954257840)
 - **RS 2000 G12.5** (免费体验 1 个月)
-  - [`6875nc17955864710`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17955864710)
+  - [`6875nc17955927790`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17955927790)
   - [`6875nc17955347830`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17955347830)
   - [`6875nc17954477950`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17954477950)
   - [`6875nc17954068700`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17954068700)
@@ -85,7 +85,7 @@
   - [`5207nc17955342160`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17955342160)
   - [`5207nc17954703310`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17954703310)
 - **Webhosting 4000** (30% 立减 LIFETIME)
-  - [`5208nc17954321180`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17954321180)
+  - [`5208nc17955927880`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17955927880)
   - [`5208nc17953610210`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17953610210)
   - [`5208nc17951099610`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17951099610)
   - [`5208nc17948500700`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17948500700)
