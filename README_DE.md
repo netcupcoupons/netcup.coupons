@@ -58,7 +58,7 @@
   - [`6877nc17955787850`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17955787850)
   - [`6877nc17952412580`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17952412580)
 - **VPS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
-  - [`6878nc17956841950`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17956841950)
+  - [`6878nc17957361240`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17957361240)
   - [`6878nc17953557780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17953557780)
   - [`6878nc17952736060`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17952736060)
   - [`6878nc17950934840`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17950934840)
