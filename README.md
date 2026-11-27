@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-11-27 01:51:22 UTC`
+⏰ **Last Updated:** `2026-11-27 01:56:22 UTC`
 
 ## How to Redeem
 - 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
@@ -25,17 +25,17 @@
 ### Root Servers
 
 - **RS 1000 G12.5** (FREE FOR 2 MONTHS)
-  - [`6874nc17957442470`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17957442470)
-  - [`6874nc17957389240`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17957389240)
+  - [`6874nc17957445461`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17957445461)
+  - [`6874nc17957445460`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17957445460)
   - [`6874nc17956735080`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17956735080)
   - [`6874nc17956677480`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17956677480)
   - [`6874nc17956322940`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17956322940)
 - **RS 2000 G12.5** (FREE FOR 1 MONTH)
-  - [`6875nc17957162700`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17957162700)
+  - [`6875nc17957445551`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17957445551)
+  - [`6875nc17957445550`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17957445550)
   - [`6875nc17957159680`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17957159680)
   - [`6875nc17955927790`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17955927790)
   - [`6875nc17954477950`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17954477950)
-  - [`6875nc17952867750`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17952867750)
 - **RS 4000 G12.5** (5 EUR OFF)
   - [`36nc17833646274`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646274)
   - [`36nc17833646273`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646273)
