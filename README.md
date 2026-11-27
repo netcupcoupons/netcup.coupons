@@ -58,10 +58,10 @@
   - [`6877nc17956935600`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17956935600)
   - [`6877nc17952412580`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17952412580)
 - **VPS 2000 G12.5** (FREE FOR 1 MONTH)
+  - [`6878nc17957908360`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957908360)
   - [`6878nc17957890810`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957890810)
   - [`6878nc17957862440`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957862440)
   - [`6878nc17957361240`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957361240)
-  - [`6878nc17953557780`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17953557780)
   - [`6878nc17950934840`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17950934840)
 - **VPS 4000 G12.5** (FREE FOR 1 MONTH)
   - [`6879nc17957822160`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957822160)
@@ -91,11 +91,11 @@
   - [`5208nc17955927880`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17955927880)
   - [`5208nc17948500700`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17948500700)
 - **Webhosting 8000** (30% OFF LIFETIME)
+  - [`5209nc17957908450`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957908450)
   - [`5209nc17957865440`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957865440)
   - [`5209nc17957804980`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957804980)
   - [`5209nc17957776800`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957776800)
   - [`5209nc17952426290`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17952426290)
-  - [`5209nc17946013570`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17946013570)
 
 ## Technical Specifications
 ### Root Servers G12.5
