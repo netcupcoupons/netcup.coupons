@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-11-27 14:42:51 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-27 14:48:25 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -43,11 +43,11 @@
   - [`36nc17833646271`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646271)
   - [`36nc17833646270`](https://www.netcup.com/de/checkout/warenkorb?gutschein=36nc17833646270)
 - **RS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6876nc17957911710`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17957911710)
   - [`6876nc17957825240`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17957825240)
   - [`6876nc17951456790`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17951456790)
   - [`6876nc17942339350`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17942339350)
   - [`6876nc17929045850`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17929045850)
-  - [`6876nc17925031214`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6876nc17925031214)
 
 ### Virtual Server (VPS)
 
@@ -91,11 +91,11 @@
   - [`5208nc17955927880`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17955927880)
   - [`5208nc17948500700`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17948500700)
 - **Webhosting 8000** (30% RABATT LIFETIME)
+  - [`5209nc17957911800`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17957911800)
   - [`5209nc17957908450`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17957908450)
   - [`5209nc17957865440`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17957865440)
   - [`5209nc17957804980`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17957804980)
   - [`5209nc17957776800`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17957776800)
-  - [`5209nc17952426290`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5209nc17952426290)
 
 ## Technische Spezifikationen
 ### Root Server G12.5
