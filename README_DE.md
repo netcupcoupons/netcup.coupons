@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-11-27 13:26:11 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-27 13:31:20 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -52,15 +52,15 @@
 ### Virtual Server (VPS)
 
 - **VPS 1000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6877nc17957862350`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17957862350)
   - [`6877nc17957822070`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17957822070)
   - [`6877nc17957754180`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17957754180)
-  - [`6877nc17957046070`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17957046070)
   - [`6877nc17956935600`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17956935600)
   - [`6877nc17952412580`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6877nc17952412580)
 - **VPS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6878nc17957862440`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17957862440)
   - [`6878nc17957361240`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17957361240)
   - [`6878nc17953557780`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17953557780)
-  - [`6878nc17952736060`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17952736060)
   - [`6878nc17950934840`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17950934840)
   - [`6878nc17945670230`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6878nc17945670230)
 - **VPS 4000 G12.5** (KOSTENLOS FÜR 1 MONAT)
@@ -70,11 +70,11 @@
   - [`6879nc17945260310`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17945260310)
   - [`6879nc17945055670`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6879nc17945055670)
 - **VPS 8000 G12.5** (KOSTENLOS FÜR 1 MONAT)
+  - [`6880nc17957862530`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17957862530)
   - [`6880nc17957848130`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17957848130)
   - [`6880nc17957825330`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17957825330)
   - [`6880nc17957822251`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17957822251)
   - [`6880nc17957822250`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17957822250)
-  - [`6880nc17954538660`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6880nc17954538660)
 
 ### Webhosting
 
