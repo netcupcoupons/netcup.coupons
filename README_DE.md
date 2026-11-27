@@ -3,7 +3,7 @@
 # Netcup Gutscheine & Rabattcodes
 > 🏷️ Eine kuratierte Liste von aktiven Netcup Gutscheincodes. Automatisch geprüft und in Echtzeit aktualisiert.
 
-⏰ **Zuletzt aktualisiert:** `2026-11-27 12:57:37 UTC`
+⏰ **Zuletzt aktualisiert:** `2026-11-27 13:02:29 UTC`
 
 ## Gutschein einlösen
 - 🚀 **Direkte Einlösung per Klick:** Klicken Sie einfach auf einen Gutscheincode unten, um den Netcup-Warenkorb direkt mit aktiviertem Gutscheincode aufzurufen!
@@ -79,11 +79,11 @@
 ### Webhosting
 
 - **Webhosting 2000** (30% RABATT LIFETIME)
+  - [`5207nc17957845220`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17957845220)
   - [`5207nc17957796450`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17957796450)
   - [`5207nc17957686630`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17957686630)
   - [`5207nc17957683710`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17957683710)
   - [`5207nc17955342160`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17955342160)
-  - [`5207nc17954703310`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5207nc17954703310)
 - **Webhosting 4000** (30% RABATT LIFETIME)
   - [`5208nc17957816380`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17957816380)
   - [`5208nc17957807890`](https://www.netcup.com/de/checkout/warenkorb?gutschein=5208nc17957807890)
