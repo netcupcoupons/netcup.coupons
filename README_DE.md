@@ -25,11 +25,11 @@
 ### Root Server (RS)
 
 - **RS 1000 G12.5** (KOSTENLOS FÜR 2 MONATE)
+  - [`6874nc17957902610`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17957902610)
   - [`6874nc17957825150`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17957825150)
   - [`6874nc17957754090`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17957754090)
   - [`6874nc17957740010`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17957740010)
   - [`6874nc17957445460`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17957445460)
-  - [`6874nc17956735080`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6874nc17956735080)
 - **RS 2000 G12.5** (KOSTENLOS FÜR 1 MONAT)
   - [`6875nc17957853830`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17957853830)
   - [`6875nc17957833810`](https://www.netcup.com/de/checkout/warenkorb?gutschein=6875nc17957833810)
