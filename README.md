@@ -3,7 +3,7 @@
 # Netcup Voucher Codes
 > 🏷️ A curated collection of Netcup voucher codes. Checked automatically and synchronized in real-time.
 
-⏰ **Last Updated:** `2026-11-28 12:42:10 UTC`
+⏰ **Last Updated:** `2026-11-28 12:47:03 UTC`
 
 ## How to Redeem
 - 🚀 **Direct One-Click Redemption:** Click any voucher code below to open the Netcup shopping cart with the coupon code automatically pre-applied!
@@ -31,10 +31,10 @@
   - [`6874nc17957825150`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17957825150)
   - [`6874nc17957754090`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17957754090)
 - **RS 2000 G12.5** (FREE FOR 1 MONTH)
+  - [`6875nc17958699930`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17958699930)
   - [`6875nc17958697070`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17958697070)
   - [`6875nc17958621900`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17958621900)
   - [`6875nc17958583530`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17958583530)
-  - [`6875nc17957655420`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17957655420)
   - [`6875nc17957445551`](https://www.netcup.com/en/checkout/cart?gutschein=6875nc17957445551)
 - **RS 4000 G12.5** (5 EUR OFF)
   - [`36nc17833646274`](https://www.netcup.com/en/checkout/cart?gutschein=36nc17833646274)
@@ -64,8 +64,8 @@
   - [`6878nc17957890810`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957890810)
   - [`6878nc17957862440`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957862440)
 - **VPS 4000 G12.5** (FREE FOR 1 MONTH)
+  - [`6879nc17958700020`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17958700020)
   - [`6879nc17958674780`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17958674780)
-  - [`6879nc17957988780`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957988780)
   - [`6879nc17957962980`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957962980)
   - [`6879nc17957951710`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957951710)
   - [`6879nc17957822160`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957822160)
