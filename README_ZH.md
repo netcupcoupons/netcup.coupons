@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-11-28 14:02:04 UTC`
+⏰ **最后更新:** `2026-11-28 14:06:47 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -91,10 +91,10 @@
   - [`5208nc17957807890`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17957807890)
   - [`5208nc17957728740`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17957728740)
 - **Webhosting 8000** (30% 立减 LIFETIME)
+  - [`5209nc17958747860`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17958747860)
   - [`5209nc17958708510`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17958708510)
   - [`5209nc17957911800`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957911800)
   - [`5209nc17957865440`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957865440)
-  - [`5209nc17957804980`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957804980)
   - [`5209nc17957776800`](https://www.netcup.com/en/checkout/cart?gutschein=5209nc17957776800)
 
 ## 技术参数对照表
