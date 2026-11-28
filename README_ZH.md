@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-11-28 11:55:15 UTC`
+⏰ **最后更新:** `2026-11-28 12:05:10 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -64,10 +64,10 @@
   - [`6878nc17957890810`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957890810)
   - [`6878nc17957862440`](https://www.netcup.com/en/checkout/cart?gutschein=6878nc17957862440)
 - **VPS 4000 G12.5** (免费体验 1 个月)
+  - [`6879nc17958674780`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17958674780)
   - [`6879nc17957988780`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957988780)
   - [`6879nc17957962980`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957962980)
   - [`6879nc17957951710`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957951710)
-  - [`6879nc17957943040`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957943040)
   - [`6879nc17957822160`](https://www.netcup.com/en/checkout/cart?gutschein=6879nc17957822160)
 - **VPS 8000 G12.5** (免费体验 1 个月)
   - [`6880nc17958657840`](https://www.netcup.com/en/checkout/cart?gutschein=6880nc17958657840)
@@ -79,11 +79,11 @@
 ### Web 虚拟主机 (Hosting)
 
 - **Webhosting 2000** (30% 立减 LIFETIME)
+  - [`5207nc17958674860`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17958674860)
   - [`5207nc17958671880`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17958671880)
   - [`5207nc17958654970`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17958654970)
   - [`5207nc17958643840`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17958643840)
   - [`5207nc17957796450`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17957796450)
-  - [`5207nc17957686630`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17957686630)
 - **Webhosting 4000** (30% 立减 LIFETIME)
   - [`5208nc17958159610`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17958159610)
   - [`5208nc17957980080`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17957980080)
