@@ -3,7 +3,7 @@
 # Netcup 优惠码与折扣券
 > 🏷️ 精选 Netcup 优惠券代码合集。自动检查检测并实时同步更新。
 
-⏰ **最后更新:** `2026-11-28 15:26:33 UTC`
+⏰ **最后更新:** `2026-11-28 15:31:36 UTC`
 
 ## 优惠码使用方式
 - 🚀 **一键直达兑换：** 直接点击下方任意优惠码链接，即可自动跳转至 Netcup 购物车并预填兑换该优惠券！
@@ -25,6 +25,7 @@
 ### Root 专用服务器 (RS)
 
 - **RS 1000 G12.5** (免费体验 2 个月)
+  - [`6874nc17958798560`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17958798560)
   - [`6874nc17958795620`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17958795620)
   - [`6874nc17958683320`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17958683320)
   - [`6874nc17958646690`](https://www.netcup.com/en/checkout/cart?gutschein=6874nc17958646690)
@@ -51,7 +52,7 @@
 ### VPS 虚拟服务器 (VPS)
 
 - **VPS 1000 G12.5** (免费体验 1 个月)
-  - [`6877nc17958711340`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17958711340)
+  - [`6877nc17958798650`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17958798650)
   - [`6877nc17958671790`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17958671790)
   - [`6877nc17958098080`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17958098080)
   - [`6877nc17957965880`](https://www.netcup.com/en/checkout/cart?gutschein=6877nc17957965880)
@@ -84,9 +85,9 @@
   - [`5207nc17958643840`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17958643840)
   - [`5207nc17957796450`](https://www.netcup.com/en/checkout/cart?gutschein=5207nc17957796450)
 - **Webhosting 4000** (30% 立减 LIFETIME)
+  - [`5208nc17958798740`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17958798740)
   - [`5208nc17958756370`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17958756370)
   - [`5208nc17958728260`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17958728260)
-  - [`5208nc17957816380`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17957816380)
   - [`5208nc17957807890`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17957807890)
   - [`5208nc17957728740`](https://www.netcup.com/en/checkout/cart?gutschein=5208nc17957728740)
 - **Webhosting 8000** (30% 立减 LIFETIME)
